@@ -18,4 +18,4 @@ R.: Sim
 
 (opcional) Q4-Qual técnica esse "sistema especialista" utiliza?
 
-R.: Além do encadeamento para frente, ele utiliza algo semelhante a arvore de decisão, pois percorre uma série de perguntas que levam 
+R.: Além do encadeamento para frente, ele utiliza algo semelhante a arvore de decisão, pois percorre uma série de perguntas que levam a respostas especificas baseado nas perguntas
